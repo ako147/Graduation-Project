@@ -1,0 +1,5 @@
+後端 → venv\Scripts\activate → python -m uvicorn main:app --reload
+
+前端 → npm run dev
+
+瀏覽器 → http://localhost:3000 
